@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.vezzygame.com	TRUE	/	FALSE	1999999999	PHPSESSID	35sjle72qc85dph3l9st63rab2
+

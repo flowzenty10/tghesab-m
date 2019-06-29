@@ -1,0 +1,32 @@
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+::-webkit-scrollbar-thumb {
+  background: #414755; 
+  transition: all 400ms ease-in-out;
+} 
+::-webkit-scrollbar-thumb:hover {
+  background: #595f6f; 
+} 
+.card {
+  box-shadow: 0 0 10px rgba(148, 137, 137, 0.07) !important;
+}
+.notify-div .icon {
+  position: relative;
+  z-index: 1;
+}
+
+.notify-div .red {
+  z-index: 2; 
+  position: absolute;
+  top: 21px;
+  width: 10px;
+  height: 10px;
+  background: #ff3838;
+  left: 24px;
+  position: absolute;
+  border-radius: 100px;
+}
